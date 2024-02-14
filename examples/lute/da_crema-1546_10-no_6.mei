@@ -1,286 +1,304 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<mei xmlns='http://www.music-encoding.org/ns/mei' meiversion='3.0.0'>
-  <meiHead>
-    <fileDesc>
-      <titleStmt>
-        <title>Excerpt from: Joan Maria Intabolatura De Lauto</title>
-      </titleStmt>
-      <pubStmt>
-        <respStmt>
-          <persName>Richard Lewis</persName>
-          <resp>Transcription</resp>
-          <resp>Encoding</resp>
-        </respStmt>
-      </pubStmt>
-      <sourceDesc>
-        <source>
-          <titleStmt>
-            <title>Joan Maria Intabolatura De Lauto di recercari canzon francese motetti madrigali padoane é saltarelli</title>
-          </titleStmt>
-          <pubStmt>
-            <pubPlace>Venice</pubPlace>
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="3.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Excerpt from: Joan Maria Intabolatura De Lauto</title>
+         </titleStmt>
+         <pubStmt>
             <respStmt>
-              <persName>Alessandro Gardane</persName>
-              <resp>Printer</resp>
+               <persName>Richard Lewis</persName>
+               <resp>Transcription</resp>
+               <resp>Encoding</resp>
             </respStmt>
-            <respStmt>
-              <persName>Giovanni Maria da Crema</persName>
-              <resp>Compiler</resp>
-            </respStmt>
-            <date>1546</date>
-          </pubStmt>
-          <physDesc>
-            <physMedium>Paper</physMedium>
-            <dimensions unit='cm'>15x22</dimensions>
-          </physDesc>
-          <physLoc>
-            <provenance>
-              <repository>
-                <name>British Library</name>
-                <identifier authURI='http://search.bl.uk/primo_library/libweb/action/display.do?dscnt=1&amp;doc=BLL01004361063&amp;dstmp=1431608397714&amp;vid=BLVU1'>K.1.c.10</identifier>
-              </repository>
-            </provenance>
-          </physLoc>
-        </source>
-      </sourceDesc>
-    </fileDesc>
-    <workDesc>
-      <work>
-        <titleStmt>
-          <title>Recercar sexto</title>
-          <composer>
-            <name>
-              <persName>Giovanni Maria da Crema</persName>
-            </name>
-          </composer>
-        </titleStmt>
-      </work>
-    </workDesc>
-  </meiHead>
-  <music>
-    <facsimile>
-      <surface>
-        <graphic target='da_crema-1546_10-no_6.png'/>
-      </surface>
+         </pubStmt>
+         <sourceDesc>
+            <source>
+               <titleStmt>
+                  <title>Joan Maria Intabolatura De Lauto di recercari canzon francese motetti madrigali padoane é saltarelli</title>
+               </titleStmt>
+               <pubStmt>
+                  <pubPlace>Venice</pubPlace>
+                  <respStmt>
+                     <persName>Alessandro Gardane</persName>
+                     <resp>Printer</resp>
+                  </respStmt>
+                  <respStmt>
+                     <persName>Giovanni Maria da Crema</persName>
+                     <resp>Compiler</resp>
+                  </respStmt>
+                  <date>1546</date>
+               </pubStmt>
+               <physDesc>
+                  <physMedium>Paper</physMedium>
+                  <dimensions unit="cm">15x22</dimensions>
+               </physDesc>
+               <physLoc>
+                  <provenance>
+                     <repository>
+                        <name>British Library</name>
+                        <identifier authURI="http://search.bl.uk/primo_library/libweb/action/display.do?dscnt=1&amp;doc=BLL01004361063&amp;dstmp=1431608397714&amp;vid=BLVU1">K.1.c.10</identifier>
+                     </repository>
+                  </provenance>
+               </physLoc>
+            </source>
+         </sourceDesc>
+      </fileDesc>
+      <workDesc>
+         <work>
+            <titleStmt>
+               <title>Recercar sexto</title>
+               <composer>
+                  <name>
+                     <persName>Giovanni Maria da Crema</persName>
+                  </name>
+               </composer>
+            </titleStmt>
+         </work>
+      </workDesc>
+      <encodingDesc xml:id="eri5smv1">
+         <appInfo xml:id="aau1k701">
+            <application xml:id="a46jixe1" enddate="2024-01-24T17:40:03" startdate="2024-01-21T21:43:10" version="1.0.9">
+               <name xml:id="n2e6pgm1">mei-friend</name>
+               <p xml:id="p1qy7nx1">First edit by mei-friend 1.0.8, 21 January 2024.</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+  <music xml:id="mqhxk9g1">
+    <facsimile xml:id="f427haa1">
+      <surface xml:id="p1">
+        <graphic xml:id="gd2f5zx2" target="da_crema-1546_10-no_6.png"/>
+         <zone xml:id="zwpi9ii1" lrx="213" lry="182" type="measure" ulx="7" uly="4"/>
+         <zone xml:id="zc69mvm1" lrx="336" lry="177" type="measure" ulx="202" uly="4"/>
+         <zone xml:id="zp9epcr2" lrx="509" lry="177" type="measure" ulx="303" uly="4"/>
+         <zone xml:id="z15u95m2" lrx="625" lry="181" type="measure" ulx="504" uly="3"/>
+         <zone xml:id="zs3wjoy1" lrx="774" lry="178" type="measure" ulx="607" uly="2"/>
+         <zone xml:id="zewy4gh1" lrx="876" lry="179" type="measure" ulx="734" uly="5"/>
+         <zone xml:id="zlg07kg" lrx="989" lry="179" type="measure" ulx="848" uly="4"/>
+         <zone xml:id="zuqk6ej1" lrx="1098" lry="178" type="measure" ulx="964" uly="6"/>
+         <zone xml:id="zh6o8q3" lrx="1236" lry="178" type="measure" ulx="1082" uly="4"/>
+       </surface>
     </facsimile>
-    <body>
-      <mdiv n='1'>
-        <score>
-          <scoreDef>
-            <staffGrp>
-              <staffDef n='1' lines='6' notationtype='tab.lute.italian'>
-                <tuning tuning.standard='lute.renaissance.6'/>
+    <body xml:id="byrc1nn1">
+      <mdiv xml:id="mjgvez51" n="1">
+        <score xml:id="s5pon48">
+          <scoreDef xml:id="swrb5q8">
+            <staffGrp xml:id="s0f0ekh1">
+              <staffDef xml:id="sogbv5i2" lines="6" n="1" notationtype="tab.lute.italian">
+                <tuning xml:id="tbohlue1" tuning.standard="lute.renaissance.6"/>
               </staffDef>
             </staffGrp>
           </scoreDef>
-          <section n='1'>
-            <measure n='1'>
-              <staff n='1'>
-                <layer n='1'>
-                  <tabGrp dur='2'>
-                    <tabDurSym/>
-                    <note tab.course='6' tab.fret='0' xml:id='m1.n1'/>
-                    <note tab.course='4' tab.fret='2' xml:id='m1.n2'/>
+          <section xml:id="s1pdvqi2" n="1">
+             <pb xml:id="pu5zdlg" facs="p1"/>
+            <measure xml:id="m3jpqvw2" facs="#zwpi9ii1" n="1">
+              <staff xml:id="s3o3nsl2" n="1">
+                <layer xml:id="la1hre" n="1">
+                  <tabGrp xml:id="t2oj165" dur="2">
+                    <tabDurSym xml:id="t2t9zm5"/>
+                    <note xml:id="nedkvuh1" tab.course="6" tab.fret="0"/>
+                    <note xml:id="n7fmn9" tab.course="4" tab.fret="2"/>
                   </tabGrp>        
-                  <tabGrp dur='4' dots='1'>
-                    <tabDurSym/>
-                    <note tab.course='6' tab.fret='0' xml:id='m1.n3'/>
-                    <note tab.course='4' tab.fret='2' xml:id='m1.n4'/>
+                  <tabGrp xml:id="tuqo0ew1" dots="1" dur="4">
+                    <tabDurSym xml:id="tbwpoov2"/>
+                    <note xml:id="nndlyov1" tab.course="6" tab.fret="0"/>
+                    <note xml:id="nrc0zlw2" tab.course="4" tab.fret="2"/>
                   </tabGrp>
-                  <tabGrp dur='8'>
-                    <tabDurSym/>
-                    <note tab.course='6' tab.fret='2' xml:id='m1.n5'/>
-                  </tabGrp>
-                </layer>
-              </staff>
-            </measure>
-            <measure n='2'>
-              <staff n='1'>
-                <layer n='1'>
-                  <tabGrp dur='4'>
-                    <tabDurSym/>
-                    <note tab.course='6' tab.fret='3' xml:id='m2.n1'/>
-                    <note tab.course='4' tab.fret='2' xml:id='m2.n2'/>
-                  </tabGrp>
-                  <tabGrp dur='4' xml:id='m2.n3'>
-                    <note tab.course='5' tab.fret='0'/>
-                  </tabGrp>
-                  <tabGrp dur='4'>
-                    <note tab.course='6' tab.fret='3' xml:id='m2.n4'/>
-                    <note tab.course='4' tab.fret='2' xml:id='m2.n5'/>
-                  </tabGrp>
-                  <tabGrp dur='4'>
-                    <note tab.course='5' tab.fret='3' xml:id='m2.n6'/>
+                  <tabGrp xml:id="t59z7gd1" dur="8">
+                    <tabDurSym xml:id="t4y39cv2"/>
+                    <note xml:id="np1dbnh" tab.course="6" tab.fret="2"/>
                   </tabGrp>
                 </layer>
               </staff>
             </measure>
-            <measure n='3'>
-              <staff n='1'>
-                <layer n='1'>
-                  <tabGrp dur='4'>
-                    <note tab.course='5' tab.fret='2' xml:id='m3.n1'/>
-                    <note tab.course='3' tab.fret='0' xml:id='m3.n2'/>
+            <measure xml:id="mz0vdgc1" facs="#zc69mvm1" n="2">
+              <staff xml:id="sfes83o1" n="1">
+                <layer xml:id="l9r2y981" n="1">
+                  <tabGrp xml:id="tbcny92" dur="4">
+                    <tabDurSym xml:id="tna2xv6"/>
+                    <note xml:id="n1vpdrj2" tab.course="6" tab.fret="3"/>
+                    <note xml:id="nirlvpn2" tab.course="4" tab.fret="2"/>
                   </tabGrp>
-                  <tabGrp dur='4'>
-                    <note tab.course='5' tab.fret='0' xml:id='m3.n3'/>
+                  <tabGrp xml:id="thbx4dh" dur="4">
+                    <note xml:id="ne22v3b" tab.course="5" tab.fret="0"/>
                   </tabGrp>
-                  <tabGrp dur='4'>
-                    <note tab.course='3' tab.fret='0' xml:id='m3.n4'/>
+                  <tabGrp xml:id="tyya1rj2" dur="4">
+                    <note xml:id="nne2tq7" tab.course="6" tab.fret="3"/>
+                    <note xml:id="nl7wa371" tab.course="4" tab.fret="2"/>
                   </tabGrp>
-                  <tabGrp dur='16'>
-                    <tabDurSym/>
-                    <note tab.course='5' tab.fret='2' xml:id='m3.n5'/>
-                  </tabGrp>
-                  <tabGrp dur='16'>
-                    <note tab.course='5' tab.fret='0' xml:id='m3.n6'/>
-                  </tabGrp>
-                  <tabGrp dur='16'>
-                    <note tab.course='6' tab.fret='3' xml:id='m3.n7'/>
-                  </tabGrp>
-                  <tabGrp dur='16'>
-                    <note tab.course='6' tab.fret='2' xml:id='m3.n8'/>
-                  </tabGrp>
-                </layer>
-              </staff>
-              <fing playingHand='right' playingFinger='1' startid='m3.n6'/>
-              <fing playingHand='right' playingFinger='1' startid='m3.n8'/>
-            </measure>
-            <measure n='4'>
-              <staff n='1'>
-                <layer n='1'>
-                  <tabGrp dur='4'>
-                    <tabDurSym/>
-                    <note tab.course='6' tab.fret='0' xml:id='m4.n1'/>
-                    <note tab.course='3' tab.fret='1' xml:id='m4.n2'/>
-                  </tabGrp>
-                  <tabGrp dur='4'>
-                    <note tab.course='5' tab.fret='3' xml:id='m4.n3'/>
-                  </tabGrp>
-                  <tabGrp dur='4'>
-                    <note tab.course='5' tab.fret='2' xml:id='m4.n4'/>
-                    <note tab.course='3' tab.fret='1' xml:id='m4.n5'/>
-                  </tabGrp>
-                  <tabGrp dur='4'>
-                    <note tab.course='6' tab.fret='3' xml:id='m4.n6'/>
+                  <tabGrp xml:id="tpu66rv1" dur="4">
+                    <note xml:id="nectbv4" tab.course="5" tab.fret="3"/>
                   </tabGrp>
                 </layer>
               </staff>
             </measure>
-            <measure n='5'>
-              <staff n='1'>
-                <layer n='1'>
-                  <tabGrp dur='4'>
-                    <note tab.course='5' tab.fret='0' xml:id='m5.n1'/>
-                    <note tab.course='3' tab.fret='0' xml:id='m5.n2'/>
+            <measure xml:id="m1oebe81" facs="#zp9epcr2" n="3">
+              <staff xml:id="si6y8z31" n="1">
+                <layer xml:id="lqe9yhw2" n="1">
+                  <tabGrp xml:id="tib8t5y1" dur="4">
+                    <note xml:id="na7hqe11" tab.course="5" tab.fret="2"/>
+                    <note xml:id="n25g7zu1" tab.course="3" tab.fret="0"/>
                   </tabGrp>
-                  <tabGrp dur='4'>
-                    <note tab.course='5' tab.fret='2' xml:id='m5.n3'/>
+                  <tabGrp xml:id="t900efd1" dur="4">
+                    <note xml:id="nxjpvlw1" tab.course="5" tab.fret="0"/>
                   </tabGrp>
-                  <tabGrp dur='4'>
-                    <note tab.course='5' tab.fret='3' xml:id='m5.n4'/>
-                    <note tab.course='4' tab.fret='2' xml:id='m5.n5'/>
+                  <tabGrp xml:id="tf5kk501" dur="4">
+                    <note xml:id="nio3zbi1" tab.course="3" tab.fret="0"/>
                   </tabGrp>
-                  <tabGrp dur='8'>
-                    <tabDurSym/>
-                    <note tab.course='3' tab.fret='1' xml:id='m5.n6'/>
+                  <tabGrp xml:id="t9lolbq2" dur="16">
+                    <tabDurSym xml:id="tlv5t7j2"/>
+                    <note xml:id="nyh0aia" tab.course="5" tab.fret="2"/>
                   </tabGrp>
-                  <tabGrp dur='8'>
-                    <note tab.course='5' tab.fret='2' xml:id='m5.n7'/>
+                  <tabGrp xml:id="t0yfuff" dur="16">
+                    <note xml:id="m3.n6" tab.course="5" tab.fret="0"/>
                   </tabGrp>
-                </layer>
-              </staff>
-              <fing playingHand='right' playingFinger='1' startid='m5.n6'/>
-            </measure>
-            <measure n='6'>
-              <staff n='1'>
-                <layer n='1'>
-                  <tabGrp dur='4'>
-                    <tabDurSym/>
-                    <note tab.course='5' tab.fret='0' xml:id='m6.n1'/>
-                    <note tab.course='3' tab.fret='0' xml:id='m6.n2'/>
+                  <tabGrp xml:id="tccii0j2" dur="16">
+                    <note xml:id="nky8pt1" tab.course="6" tab.fret="3"/>
                   </tabGrp>
-                  <tabGrp dur='4'>
-                    <note tab.course='6' tab.fret='3' xml:id='m6.n3'/>
-                    <note tab.course='4' tab.fret='2' xml:id='m6.n4'/>
-                  </tabGrp>
-                  <tabGrp dur='4'>
-                    <note tab.course='6' tab.fret='2' xml:id='m6.n5'/>
-                  </tabGrp>
-                  <tabGrp dur='4'>
-                    <note tab.course='4' tab.fret='1' xml:id='m6.n6'/>
+                  <tabGrp xml:id="t3nl54d" dur="16">
+                    <note xml:id="m3.n8" tab.course="6" tab.fret="2"/>
                   </tabGrp>
                 </layer>
               </staff>
+              <fing xml:id="f9un5j71" playingFinger="1" playingHand="right" startid="m3.n6"/>
+              <fing xml:id="fj75feb1" playingFinger="1" playingHand="right" startid="m3.n8"/>
             </measure>
-            <measure n='7'>
-              <staff n='1'>
-                <layer n='1'>
-                  <tabGrp dur='4' dots='1'>
-                    <tabDurSym/>
-                    <note tab.course='6' tab.fret='0' xml:id='m7.n1'/>
-                    <note tab.course='4' tab.fret='2' xml:id='m7.n2'/>
-                    <note tab.course='1' tab.fret='0' xml:id='m7.n3'/>
+            <measure xml:id="m8xaezr1" facs="#z15u95m2" n="4">
+              <staff xml:id="sgo0uof1" n="1">
+                <layer xml:id="l5kav5v2" n="1">
+                  <tabGrp xml:id="tyjqrkc1" dur="4">
+                    <tabDurSym xml:id="tojrlk21"/>
+                    <note xml:id="nwfj9md" tab.course="6" tab.fret="0"/>
+                    <note xml:id="nmr4v221" tab.course="3" tab.fret="1"/>
                   </tabGrp>
-                  <tabGrp dur='8'> 
-                    <tabDurSym/>
-                    <note tab.course='3' tab.fret='0' xml:id='m7.n4'/>
+                  <tabGrp xml:id="thbl49a" dur="4">
+                    <note xml:id="npfq0u11" tab.course="5" tab.fret="3"/>
                   </tabGrp>
-                  <tabGrp dur='4'>
-                    <tabDurSym/>
-                    <note tab.course='3' tab.fret='1' xml:id='m7.n5'/>
-                    <note tab.course='1' tab.fret='0' xml:id='m7.n6'/>
+                  <tabGrp xml:id="t0hpzj31" dur="4">
+                    <note xml:id="n2cy1oh" tab.course="5" tab.fret="2"/>
+                    <note xml:id="nrvygsy1" tab.course="3" tab.fret="1"/>
                   </tabGrp>
-                  <tabGrp dur='4'>
-                    <note tab.course='3' tab.fret='3' xml:id='m7.n7'/>
+                  <tabGrp xml:id="to3wlro1" dur="4">
+                    <note xml:id="n8bp1ju1" tab.course="6" tab.fret="3"/>
                   </tabGrp>
                 </layer>
               </staff>
             </measure>
-            <measure n='8'>
-              <staff n='1'>
-                <layer n='1'>
-                  <tabGrp dur='4'>
-                    <note tab.course='3' tab.fret='1' xml:id='m8.n1'/>
-                    <note tab.course='1' tab.fret='0' xml:id='m8.n2'/>
+            <measure xml:id="m5id5f9" facs="#zs3wjoy1" n="5">
+              <staff xml:id="s7i3gwc" n="1">
+                <layer xml:id="ljwj09m2" n="1">
+                  <tabGrp xml:id="trdxqbu2" dur="4">
+                    <note xml:id="nfiocbw2" tab.course="5" tab.fret="0"/>
+                    <note xml:id="nxum8ex1" tab.course="3" tab.fret="0"/>
                   </tabGrp>
-                  <tabGrp dur='4'>
-                    <note tab.course='4' tab.fret='2' xml:id='m8.n3'/>
+                  <tabGrp xml:id="tjxhco9" dur="4">
+                    <note xml:id="ndk04jk2" tab.course="5" tab.fret="2"/>
                   </tabGrp>
-                  <tabGrp dur='4'>
-                    <note tab.course='3' tab.fret='1' xml:id='m8.n4'/>
-                    <note tab.course='1' tab.fret='0' xml:id='m8.n5'/>
+                  <tabGrp xml:id="tyizpim2" dur="4">
+                    <note xml:id="nwzkorz2" tab.course="5" tab.fret="3"/>
+                    <note xml:id="nme30ap1" tab.course="4" tab.fret="2"/>
                   </tabGrp>
-                  <tabGrp dur='4'>
-                    <note tab.course='2' tab.fret='1' xml:id='m8.n6'/>
+                  <tabGrp xml:id="t8azyik2" dur="8">
+                    <tabDurSym xml:id="twah1kq2"/>
+                    <note xml:id="m5.n6" tab.course="3" tab.fret="1"/>
+                  </tabGrp>
+                  <tabGrp xml:id="tz3h3ma" dur="8">
+                    <note xml:id="n6klrq9" tab.course="5" tab.fret="2"/>
+                  </tabGrp>
+                </layer>
+              </staff>
+              <fing xml:id="fmjyk781" playingFinger="1" playingHand="right" startid="m5.n6"/>
+            </measure>
+            <measure xml:id="mak537f" facs="#zewy4gh1" n="6">
+              <staff xml:id="svrk2qx1" n="1">
+                <layer xml:id="lfkr1ot2" n="1">
+                  <tabGrp xml:id="twsh4l61" dur="4">
+                    <tabDurSym xml:id="t1awsrv1"/>
+                    <note xml:id="nmxx9kr1" tab.course="5" tab.fret="0"/>
+                    <note xml:id="nqjsza6" tab.course="3" tab.fret="0"/>
+                  </tabGrp>
+                  <tabGrp xml:id="t23zwgy1" dur="4">
+                    <note xml:id="nxwjsiz2" tab.course="6" tab.fret="3"/>
+                    <note xml:id="njqajzn1" tab.course="4" tab.fret="2"/>
+                  </tabGrp>
+                  <tabGrp xml:id="tdpm301" dur="4">
+                    <note xml:id="nmr35ce1" tab.course="6" tab.fret="2"/>
+                  </tabGrp>
+                  <tabGrp xml:id="tha5k4r2" dur="4">
+                    <note xml:id="njk1wzq1" tab.course="4" tab.fret="1"/>
                   </tabGrp>
                 </layer>
               </staff>
             </measure>
-            <measure n='9'>
-              <staff n='1'>
-                <layer n='1'>
-                  <tabGrp dur='4'>
-                    <note tab.course='2' tab.fret='0' xml:id='m9.n1'/>
-                    <note tab.course='1' tab.fret='2' xml:id='m9.n2'/>
+            <measure xml:id="m7pwjx4" facs="#zlg07kg" n="7">
+              <staff xml:id="s9vcojm1" n="1">
+                <layer xml:id="lep1voh1" n="1">
+                  <tabGrp xml:id="t96ya8p2" dots="1" dur="4">
+                    <tabDurSym xml:id="tkr4kyf"/>
+                    <note xml:id="ng8wimh" tab.course="6" tab.fret="0"/>
+                    <note xml:id="nqknk1z1" tab.course="4" tab.fret="2"/>
+                    <note xml:id="n7hcu7x2" tab.course="1" tab.fret="0"/>
                   </tabGrp>
-                  <tabGrp dur='4'>
-                    <note tab.course='3' tab.fret='3' xml:id='m9.n3'/>
+                  <tabGrp xml:id="t5m9crx2" dur="8"> 
+                    <tabDurSym xml:id="t19b4x61"/>
+                    <note xml:id="n4l2yk41" tab.course="3" tab.fret="0"/>
                   </tabGrp>
-                  <tabGrp dur='4'>
-                    <note tab.course='1' tab.fret='2' xml:id='m9.n4'/>
+                  <tabGrp xml:id="t1grmkz1" dur="4">
+                    <tabDurSym xml:id="t5h0l3d1"/>
+                    <note xml:id="nz0klbp2" tab.course="3" tab.fret="1"/>
+                    <note xml:id="nbibuna" tab.course="1" tab.fret="0"/>
                   </tabGrp>
-                  <tabGrp dur='8'>
-                    <tabDurSym/>
-                    <note tab.course='3' tab.fret='1' xml:id='m9.n5'/>
-                  </tabGrp>
-                  <tabGrp dur='8'>
-                    <note tab.course='3' tab.fret='0' xml:id='m9.n6'/>
+                  <tabGrp xml:id="t0r0kzs1" dur="4">
+                    <note xml:id="nrf54981" tab.course="3" tab.fret="3"/>
                   </tabGrp>
                 </layer>
               </staff>
-              <fing playingHand='right' playingFinger='1' startid='m9.n4'/>
-              <fing playingHand='right' playingFinger='1' startid='m9.n6'/>
+            </measure>
+            <measure xml:id="md59xu71" facs="#zuqk6ej1" n="8">
+              <staff xml:id="sm7r4v31" n="1">
+                <layer xml:id="l0llsic" n="1">
+                  <tabGrp xml:id="tvqr3ul1" dur="4">
+                    <note xml:id="nbvear8" tab.course="3" tab.fret="1"/>
+                    <note xml:id="nqx1wcd1" tab.course="1" tab.fret="0"/>
+                  </tabGrp>
+                  <tabGrp xml:id="tlfow7x1" dur="4">
+                    <note xml:id="n4rrd08" tab.course="4" tab.fret="2"/>
+                  </tabGrp>
+                  <tabGrp xml:id="tsuqu63" dur="4">
+                    <note xml:id="na2vz9j2" tab.course="3" tab.fret="1"/>
+                    <note xml:id="n3xzvch" tab.course="1" tab.fret="0"/>
+                  </tabGrp>
+                  <tabGrp xml:id="twbfzf6" dur="4">
+                    <note xml:id="n03u6vx1" tab.course="2" tab.fret="1"/>
+                  </tabGrp>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="m0ew6vf" facs="#zh6o8q3" n="9">
+              <staff xml:id="se15k7s2" n="1">
+                <layer xml:id="lgz371l2" n="1">
+                  <tabGrp xml:id="t0zwgnb" dur="4">
+                    <note xml:id="n5g8hju1" tab.course="2" tab.fret="0"/>
+                    <note xml:id="npgmhse1" tab.course="1" tab.fret="2"/>
+                  </tabGrp>
+                  <tabGrp xml:id="tpblk0l1" dur="4">
+                    <note xml:id="na1zbps1" tab.course="3" tab.fret="3"/>
+                  </tabGrp>
+                  <tabGrp xml:id="trecrjn1" dur="4">
+                    <note xml:id="m9.n4" tab.course="1" tab.fret="2"/>
+                  </tabGrp>
+                  <tabGrp xml:id="tkwoakr1" dur="8">
+                    <tabDurSym xml:id="tjhjawp1"/>
+                    <note xml:id="nprl4ol1" tab.course="3" tab.fret="1"/>
+                  </tabGrp>
+                  <tabGrp xml:id="tk9nw15" dur="8">
+                    <note xml:id="m9.n6" tab.course="3" tab.fret="0"/>
+                  </tabGrp>
+                </layer>
+              </staff>
+              <fing xml:id="f6y1eva1" playingFinger="1" playingHand="right" startid="m9.n4"/>
+              <fing xml:id="flae8zj1" playingFinger="1" playingHand="right" startid="m9.n6"/>
             </measure>
           </section>
         </score>
